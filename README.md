@@ -1,4 +1,4 @@
-### 🌼Welcome to DAC04's Github🌼 (since Mar. 03, 2024)
+# 🌼Welcome to DAC04's Github🌼 (since Mar. 03, 2024)
 💭 My information you might be curious about
 - 🎓 I’m a student at Gyeongsang National University.
 - 📖 My major is English Education.
